@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/form-image.jpg" width="100%">
+  <img alt="Formulario" src=".github/form-image.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
